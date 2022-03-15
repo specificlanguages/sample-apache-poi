@@ -1,0 +1,6 @@
+.idea/
+.gradle/
+source_gen/
+classes_gen/
+source_gen.caches/
+hello-world.docx
